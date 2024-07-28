@@ -174,3 +174,8 @@ poetry.toml
 pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python
+./data/
+data/
+pd_infnet_lyra.ipynb pd_infnet_lyra-OLLAMA.ipynb rag-agent-testing-local.ipynb
+.ipynb
+notebooks/
